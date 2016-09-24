@@ -1,0 +1,7 @@
+.Block {
+    background-color: ghostwhite;
+    position: absolute;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}

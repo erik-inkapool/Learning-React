@@ -1,7 +1,12 @@
 // Workspace settings
 {
+    "editor.formatOnType": true,
+    "html.format.indentInnerHtml": true,
     "files.exclude": {
         "**/*.map": true,
-        "**/node_modules": true,
+        "**/node_modules": true
+    },
+    "files.associations": {
+        "**/src/**/*.js": "javascriptreact"
     }
 }
