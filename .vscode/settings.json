@@ -1,0 +1,7 @@
+// Workspace settings
+{
+    "files.exclude": {
+        "**/*.map": true,
+        "**/node_modules": true,
+    }
+}

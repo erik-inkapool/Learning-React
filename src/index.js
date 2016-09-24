@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import CaveMan from './CaveMan';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <CaveMan />,
   document.getElementById('root')
 );
